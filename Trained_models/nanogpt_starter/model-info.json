@@ -1,0 +1,13 @@
+{
+  "name": "nanoGPT Shakespeare starter",
+  "kind": "nanogpt_char",
+  "source_repo": "https://github.com/karpathy/nanoGPT",
+  "nanoGPT_commit": "3adf61e154c3fe3fca428ad6bc3818b27a3b8291",
+  "training_data": "Tiny Shakespeare, public-domain Shakespeare works",
+  "parameters": 1816896,
+  "training_steps": 2000,
+  "batch_size": 16,
+  "context": 128,
+  "validation_loss": 1.9062,
+  "checkpoint_sha256": "5c75530a36f183f0ec8f972b5c0943bae6106764d89c1c572c2525c656ff222a"
+}

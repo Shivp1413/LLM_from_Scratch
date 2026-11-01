@@ -1,0 +1,12 @@
+{
+  "kind": "nanogpt_char",
+  "name": "nanogpt_starter",
+  "mode": "scratch",
+  "base_model": null,
+  "size": "2M",
+  "steps": 2000,
+  "parameters": 1816896,
+  "validation_loss": 1.9062251091003417,
+  "training_characters": 1115394,
+  "created": "2026-10-28 09:56:25 UTC"
+}
