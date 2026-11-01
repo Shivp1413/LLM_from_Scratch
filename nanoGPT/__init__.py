@@ -1,0 +1,1 @@
+"""Pinned Karpathy nanoGPT source subset used by this project."""
